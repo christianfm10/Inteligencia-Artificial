@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473048409 source:c:\users\christian\desktop\c++\septimo\blind_search\main.cpp
+	<bits/stdc++.h>
+	<vector>
+	<iostream>
+
