@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475074882 source:c:\users\christian\desktop\c++\septimo\genetico\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
